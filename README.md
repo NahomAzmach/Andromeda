@@ -8,7 +8,6 @@ This repo contains the front end modernization and rebranding of Andromeda Inter
 - **Micro-Animations:** Integrated smooth `framer-motion` dynamics across the site...including a continuous typewriter effect on the hero text, floating interactive logos, hover-scaling icons, and rotating elements to create a premium, "living" feel to the interface.
 - **Editorial Layouts:** Removed the static informational "cards" on the homepage in favor of an alternating editorial bento-style design.
 - **Interactive History:** The About page was completely reimagined from a simple static block into a dynamic, parallax-scrolling vertical timeline that highlights the agency's origins.
-- **Serverless Communications:** Implemented a non-blocking contact form mapped directly to `iSchedule@AndromedaEnt.com` utilizing Ajax fetching so users never have to leave the page when booking an interpreter.
 
 ---
 
